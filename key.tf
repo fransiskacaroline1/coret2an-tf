@@ -1,0 +1,4 @@
+resource "aws_key_pair" "name" {
+  key_name = summarecon
+  public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDHGvfTEa4dczd2+uCM8OOHLUZBE9L+UD+dBAEzNhOuICfQWOZ3nV0jX9M8lFw6sGINl2IasbBniAIeqhqdhc7XX40QzOlROy+9kq0alxZwiykfAfam2nKxcufZB7hpus6MftaE3fzq1+bKLYb3VwmXq4z/wufjBP0bASoSw2Y2MqT08CS4PYf151war/p1RPudst/HAQo+e2jup8K12lz4mkHdJ3KQgiSckGc5PanEgSPX51v/niY7qCndlIZW8zb+LCND/NwYGcsnAIrhOgqW2Pke2JL0CISF7qs3Otsfb4Dhmo5RBQhQkveJDyhWmpgD5McXtaoL7/pWUxTxi4wH rsa-key-20231122"
+}
